@@ -2,7 +2,7 @@
 
 Append the following include on the page where you want this style:
 
-` <link rel="stylesheet" href="./styles/css-pokemon-gameboy.css"> `
+` <link rel="stylesheet" href="./dist/css-pokemon-emrb.css"> `
 See the [demo](https://crazy8games.github.com/Pokemon-EM-RB-Css), index.html or .css-files for all possible classes and effects.
 # Compile it yourself
 ### Compiling
